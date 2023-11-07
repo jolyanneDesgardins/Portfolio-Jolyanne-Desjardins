@@ -1,39 +1,44 @@
 ---
 layout: post
-title: 'Émotions'
+title: 'Festival ELektra'
 ---
 
 
+Dans le cadre de mon cours de [Développement Web](https://tim-montmorency.com/timdoc/582-424MO/) nous avions un projet du nom de [Projet Airvflight](https://tim-montmorency.com/timdoc/582-424MO/projet-app-festival-art-numerique/) nous avons du choisir en équipe un festival d'art et en faire un site pour promouvoir une application de festival. Dans ce projet j'ai designer et programmer la page d'Accueil du site tandis que mon coéquipier Felix à faite l'application que l'on vois sur la page d'accueil.
 
-## Synopsis ##
+## Moodboard 
 
-Une jeune adolescente nommée Amélie (17 ans) cache ses émotions par la peur du jugement des autres. Vers la fin, elle se permet de les révéler de plus en plus au grand jour et finit par s'assumer. On passe par la peur, l'angoisse, la tristesse, la colère, l'acceptation.​
+{% include image.html url="http://www.gratisography.com" image="/projects/proj-2/moodboard_eletkra.png" %}
 
+>moodbord
 
-## Émotions ##
+## Maquette de base
+{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/moodbord_electra.pdf" image="/projects/proj-2/desktop.jpg" %}
 
-Le projet **Émotion** est un projet où l'on avait comme défi d'intégrer des formes à l'intérieur de celui-ci. Dans notre projet, j'ai eu l'idée de casser des miroirs afin qu'elle crée à la fois des formes comme demander, mais aussi différents fragments qui apportent non seulement un côté esthétique,mais aussi des ombres intéressantes. De plus, nous avons aussi pour défi utilisé un Greenscreen ce qui était notre première fois. Nous avons utilisé les Greenscreen pour faire apparaitre des mains dans le visage de Anna afin de créer un effet d'oppression.
+> maquette
 
-[![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be)
+## Appeçu des sections du site
 
+{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/hero-electra.png" image="/projects/proj-2/hero-eletkra.png" %}
 
-## Mon rôle ##
+> section héro
 
-Dans le projet **Émotion** mon rôle était celui de la réalisatrice. Je m'occupais de planifer les rencontres d'équipe et de la gestion du temps. J'ai aussi fait le montage de son et de vidéo avec ma collègue Ghita Alaoui.
+{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/fonctionnalite-elektra.png" image="/projects/proj-2/fonctionnalite-elektra.png" %}
 
-
-
-
-#### Logiciels utilisés ####
-
-- DAvinci Resolve
-- Reaper
+> section fonctionnalite
 
 
-#### Techniques utilisés  ####
+{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/temoignage-electra.png" image="/projects/proj-2/temoignage-electra.png" %}
 
-- Green Screen
+> section témoignage
 
+
+## Mon rôle 
+Mon rôle à été de designer et programmer la page de base
+
+## Logiciel utilisé
+- Visuel Studio Code
+- Github Desktop
   
 ## Création ##
 
