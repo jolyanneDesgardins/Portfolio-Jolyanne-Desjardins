@@ -34,21 +34,20 @@ Dans ce projet , j'ai faite la modélisation des arbres , et du sol (pont, rivi�
 ## Logiciel utilisé 
 
 - Maya
-  ## Procecus de création
+## Procecus de création
+ ![sol_debut_gris](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/ed715e4d-6119-4810-b84f-6c7bcc3b655d)
 
-  ![sol_debut_gris](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/ed715e4d-6119-4810-b84f-6c7bcc3b655d)
-
-  > modélisation du sol avant texture
+> modélisation du sol avant texture
   
 ![gazon_prototype](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/54ab96df-8e91-4440-9b0f-6afc783b2595)
 
   
-  > essaie de texture de gazon 2d sur le sol
+> essaie de texture de gazon 2d sur le sol
  
 ![gazon_xgen](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/e750f51a-feb0-43d9-84aa-45d88c6549c7)
 
   
-  > Texture du gazon avec Xgen
+> Texture du gazon avec Xgen
 
 
 
