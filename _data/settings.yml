@@ -10,10 +10,11 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'El natura',   url: 'proj-1'}
-- {name: 'Émotion',   url: 'proj-2'}
-- {name: 'Elucitrap',   url: 'proj-3'}
-- {name: 'Nouvelle direction',  url: 'proj-4'}
+- {name: 'Promis',   url: 'proj-1'}
+- {name: 'Elektra',   url: 'proj-2'}
+- {name: 'Générique',   url: 'proj-3'}
+- {name: 'Scène',  url: 'proj-4'}
+- {name: 'La Sphère',  url: 'proj-5'}
 
 
 
