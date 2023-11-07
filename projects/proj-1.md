@@ -32,4 +32,4 @@ De plus, nous avons aussi fait le montage vidéo ensemble. Cependant pour ce qui
 ## Création ##
 
 Proccessus de montage
-![nwsgljbnglj](assets/img/projects/proj-1/Desktop_jolyanne.jpg)
+![nwsgljbnglj](assets/img/projects/proj-1/Desktop_jolyanne.png)
