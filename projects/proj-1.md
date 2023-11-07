@@ -7,7 +7,8 @@ Le projet EL natura a été réalisé par moi et une autre de mes collègues. Ce
 
 [![EL natura](http://img.youtube.com/vi/OOXDrbibBvE/0.jpg)](https://www.youtube.com/watch?v=OOXDrbibBvE)
 
-
+assets/img/projects
+/proj-1/
 
 ## Mon rôle ##
 
@@ -31,4 +32,6 @@ De plus, nous avons aussi fait le montage vidéo ensemble. Cependant pour ce qui
 ## Création ##
 
 Proccessus de montage
-![el_natura](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/6893201e-f445-4c09-ae70-2391b8543159)
+![nwsgljbnglj](assets/img/projects
+/proj-1/Desktop_jolyanne.jpg
+)
