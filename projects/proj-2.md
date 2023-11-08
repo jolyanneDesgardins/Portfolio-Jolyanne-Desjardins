@@ -7,28 +7,32 @@ title: 'Festival ELektra'
 Dans le cadre de mon cours de [Développement Web](https://tim-montmorency.com/timdoc/582-424MO/) nous avions un projet du nom de [Projet Airvflight](https://tim-montmorency.com/timdoc/582-424MO/projet-app-festival-art-numerique/) nous avons du choisir en équipe un festival d'art et en faire un site pour promouvoir une application de festival. Dans ce projet j'ai designer et programmer la page d'Accueil du site tandis que mon coéquipier Felix à faite l'application que l'on vois sur la page d'accueil.
 
 ## Moodboard 
+![moodboard_eletkra](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/438d204f-55fe-4717-9239-a5d49b36df8f)
 
-{% include image.html url="http://www.gratisography.com" image="/projects/proj-2/moodboard_eletkra.png" %}
 
 >moodbord
 
 ## Maquette de base
-{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/moodbord_electra.pdf" image="/projects/proj-2/desktop.jpg" %}
+![desktop (1)](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/e2d4123f-1e0a-4fd9-a864-52db130738f1)
+
 
 > maquette
 
 ## Appeçu des sections du site
 
-{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/hero-electra.png" image="/projects/proj-2/hero-eletkra.png" %}
+![hero-electra](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/37986db3-795f-4f9e-9bc9-52042b9186bd)
+
 
 > section héro
 
-{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/fonctionnalite-elektra.png" image="/projects/proj-2/fonctionnalite-elektra.png" %}
+![fonctionnalite-elektra](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/d62fe384-fd56-42d1-9591-4c1c6774b6ae)
+
 
 > section fonctionnalite
 
 
-{% include image.html url="https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/blob/gh-pages/assets/img/projects/proj-2/temoignage-electra.png" image="/projects/proj-2/temoignage-electra.png" %}
+
+![temoignage-electra](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/32eaf563-bca6-418a-a791-234ab9952185)
 
 > section témoignage
 
@@ -40,7 +44,4 @@ Mon rôle à été de designer et programmer la page de base
 - Visuel Studio Code
 - Github Desktop
   
-## Création ##
 
-
-![Capture](https://github.com/lauriehoude/Portfolio-Laurie-Houde/assets/89647723/5d10d4ce-9b69-4fb5-9b79-3aae4f00df55)
