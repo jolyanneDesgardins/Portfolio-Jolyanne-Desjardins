@@ -6,7 +6,7 @@ Dans le cadre du cours d'animation 3d nous avions comme défi d'utiliser des ani
 
 ## Concept 
 
-notre concept est baser sur l'empathie,  une shère se promène dans une grotte plutôt sombre et illumine son passage dans la noirceur. jusqu'à ce qu'elle réussisse à sortir de cette grotte et qu'elle est pas la seul à avoir vécu ça.
+Notre concept est baser sur l'empathie,  une shère se promène dans une grotte plutôt sombre et illumine son passage dans la noirceur. jusqu'à ce qu'elle réussisse à sortir de cette grotte et qu'elle est pas la seul à avoir vécu ça.
 
 
 ## Moodboard Général
@@ -20,7 +20,7 @@ notre concept est baser sur l'empathie,  une shère se promène dans une grotte 
 
 [![IMAGE ALT TEXT HERE](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/9bcdb92e-7d79-4473-9537-01b234b811f5)](https://youtu.be/tgf1mNtVVIg)
 ## mon rôle 
-dans l'équipe je me suis occupé des texture de la grotte,  des cristaux et leurs textures et animation, et de l'éclairage.
+Dans l'équipe je me suis occupé des texture de la grotte,  des cristaux et leurs textures et animation, et de l'éclairage.
 
 ## logiciel utilisé 
 
