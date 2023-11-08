@@ -1,26 +1,21 @@
----
-layout: page
-title: About
-permalink: /about
----
-
 # À propos
-Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Techniques d'intégration multimédia au Collège Montmorency à Laval. Je suis une passionnée du montage vidéo et de la création de contenus en tout genre autant en design, qu'en audiovisuelle et qu'en vidéo. Je suis assez polyvalente vous allez découvrir dans mes oeuvres.
 
+Mon nom est Jolyanne Desjardins , je suis présentement étudiante au Collège Montmorency dans la Techniques d'intégration multimédia , je m'intéresse en particulier au design graphique/design web. JE suis une personne créative et qui attention au détail, je travaille bien en équipe.
 
+## Logiciel maitriser :
 
-
-
-
-Liste des logiciels maitrisés
-- Adobe After Effect
-- Unity
-- Reaper
+- figma
+- Xd
+- photoshop
 - Maya
-- Photoshop
-- VcV Rack 2
-- Max 8
-- Github
-- ilustrator
-- DAVinci Resolve
-- Visual STudio code
+-Reaper
+- DaVinci Resolve
+ ## Logiciel vu dans le cadre de programme:
+ - after effect
+ - illustrator
+ - VCV Rack
+ - Unity
+ - Lightroom
+ - 
+ 
+
