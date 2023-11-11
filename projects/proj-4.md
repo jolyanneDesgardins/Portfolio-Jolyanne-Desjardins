@@ -28,7 +28,7 @@ Pour ce projet dans le cadre du cours de modélisation 3d , fait en collaboratio
 
 ## Mon rôle 
 
-Dans ce projet , j'ai faite la modélisation des arbres , et du sol (pont, rivière, sentier, le gazon ) et du positionnement des objets dans la scène.
+Dans ce projet , j'ai faite la modélisation des arbres et du sol (pont, rivière, sentier, le gazon ) et du positionnement des objets dans la scène.
 
 
 ## Logiciel utilisé 
