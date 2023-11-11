@@ -15,7 +15,9 @@ Mon nom est Jolyanne Desjardins , je suis présentement étudiante au Collège M
 - Xd
 - photoshop
 - Maya
+
 -Reaper
+
 - DaVinci Resolve
 
  ## Logiciel vu dans le cadre de programme:
