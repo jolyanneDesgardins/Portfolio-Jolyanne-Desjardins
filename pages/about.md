@@ -11,18 +11,17 @@ Mon nom est Jolyanne Desjardins , je suis présentement étudiante au Collège M
 
 ## Logiciel maitriser :
 
-- figma
+- Figma
 - Xd
-- photoshop
+- Photoshop
 - Maya
-
--Reaper
+- Reaper
 
 - DaVinci Resolve
 
  ## Logiciel vu dans le cadre de programme:
- - after effect
- - illustrator
+ - After effect
+ - Illustrator
  - VCV Rack
  - Unity
  - Lightroom
