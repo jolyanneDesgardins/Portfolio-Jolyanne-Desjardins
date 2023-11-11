@@ -8,7 +8,7 @@ Pour ce projet dans le cadre du cours de modélisation 3d , fait en collaboratio
 ![moodbord_generale](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/d740193b-9870-440d-ae6c-6ae88781ba2a)
 ![moodbord_sol](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/279ba396-f24b-4939-99ac-bd015161c105)
 ![moodbord_arbre](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/1297732f-1eaa-4596-a88e-0e30867c968d)
-## Modelisation version 1
+## Modélisation version 1
 
 ![scene_version_1](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/ec8e98c4-445c-420e-a59c-718e45332e9a)
 
