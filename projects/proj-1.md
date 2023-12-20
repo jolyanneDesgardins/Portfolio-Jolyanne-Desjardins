@@ -28,7 +28,7 @@ La maquette choisi:
 
 
 Donc en plus de corriger la maquette je participe aussi au développement de la page d'Accueil , du hub de nouvelles et des détails de nouvelle
-## Preview du site 
+## Preview du site en vidéo 
 [![IMAGE ALT TEXT HERE](https://github.com/jolyanneDesgardins/Portfolio-Jolyanne-Desjardins/assets/113621167/19f35079-49d5-4030-92e7-cb4be681c9c6)](https://youtu.be/kFQd35q19DM)
 ## Logiciel utiliser
 - Visual Studio Code
