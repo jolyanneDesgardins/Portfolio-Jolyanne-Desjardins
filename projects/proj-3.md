@@ -6,9 +6,9 @@ Dans le cadre du cours de photoshop de première session , il nous a été deman
 
 ## Concept 
 
-Mon inspiration est tirer d'une émission réel qui se nomme Humicide Hunter , dans lequel le lieutenant Joe Kenda raconte comment il a résolu certain des crime dans lesquels il était détective.Souvant dans les émissions les crimes devienne des dossiers non résolu et pour lesquels il peuvent trouver des indices des années plus tard , donc je me suis basé la dessus pour mon idée.
+Mon inspiration est tirer d’une émission réelle qui se nomme Humicide Hunter , dans lequel le lieutenant Joe Kenda raconte comment il a résolu certain des crimes dans lesquels il était détective. Souvent dans les émissions les crimes deviennent des dossiers non résolus et pour lesquels ils peuvent trouver des indices des années plus tard, donc je me suis basé là-dessus pour mon idée. 
 ## Synopsis 
-Maélie Bouchard , une jeune détective qui fait ces débuts dans un nouveau district, dans lequelle ses talents en tent que détective vont être mis à l'épreuve lorsqu'elle reçoit un appel qui va lui permettre de résoudre une vieille affaire donc elle rêve de pouvoir résoudre.
+Maélie Bouchard , une jeune détective qui fait ces débuts dans un nouveau district, dans laquelle ses talents en tant que détective vont être mis à l’épreuve lorsqu’elle reçoit un appel qui va lui permettre de résoudre une vieille affaire donc elle rêve de pouvoir résoudre. 
 ## Moodboard 
 ![moodbord_generique](https://github.com/Houston-we-have-a-project/Portfolio-Jolyanne-Desjardins/assets/113621167/e40e746f-8b96-46ae-99e4-81f4d455a030)
 
@@ -34,10 +34,13 @@ Maélie Bouchard , une jeune détective qui fait ces débuts dans un nouveau dis
 
 
 ## Mon rôle 
-c'est moi qui a toute faite, pour les image libre de droit j'ai tu toute les détourner pour enlever le fond et garder seulement l'élément que je voulais par exemple.
+c'est moi qui a toute faite, pour les images libres de droit, j'ai tu toute les détourer pour enlever le fond et garder seulement l'élément que je voulais par exemple.
 
 ## logiciel utilisé 
 
-- photoshop 
+- photoshop
+-
+- ## Image
+- 
+- Unsplash
 
-image libre de droit et modifié par moi.
