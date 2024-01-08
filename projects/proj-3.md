@@ -39,8 +39,8 @@ c'est moi qui a toute faite, pour les images libres de droit, j'ai tu toute les 
 ## logiciel utilisé 
 
 - photoshop
--
+
 - ## Image
-- 
+  
 - Unsplash
 
