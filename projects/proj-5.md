@@ -6,7 +6,7 @@ Dans le cadre du cours d'animation 3d nous avions comme défi d'utiliser des ani
 
 ## Concept 
 
-Notre concept est baser sur l'empathie,  une shère se promène dans une grotte plutôt sombre et illumine son passage dans la noirceur. jusqu'à ce qu'elle réussisse à sortir de cette grotte et qu'elle est pas la seul à avoir vécu ça.
+Notre concept est basé sur l’empathie, une sphère se promène dans une grotte plutôt sombre et illumine son passage dans la noirceur. Jusqu’à ce qu’elle réussisse à sortir de cette grotte et qu’elle n'est pas la seul à avoir vécu ça. 
 
 
 ## Moodboard Général
